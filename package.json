@@ -16,7 +16,7 @@
   "dependencies": {
     "chalk": "^2.4.1",
     "express": "^4.16.3",
-    "gsap": "^2.0.1"
+    "gsap": "^3.6.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.4"
